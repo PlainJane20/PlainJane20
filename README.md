@@ -8,4 +8,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...`She/Her`
 - ⚡ Fun fact: ...`I am an Ordained Minister`
--->
