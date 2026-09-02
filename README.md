@@ -30,8 +30,9 @@
 
 ### 📊 A little about the numbers
 
-<img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=PlainJane20&show_icons=true&hide_border=true&bg_color=111827&title_color=8B5CF6&icon_color=EC4899&text_color=F9FAFB" width="49%" />
-<img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=PlainJane20&layout=compact&hide_border=true&bg_color=111827&title_color=8B5CF6&text_color=F9FAFB" width="35%" />
+<img src="https://raw.githubusercontent.com/PlainJane20/PlainJane20/output/metrics.svg" width="100%" />
+
+<sub>Self-hosted via GitHub Action (no third-party rate limits) — refreshes every 12 hours</sub>
 
 ### 🐍 My contribution graph, but make it a snake
 
