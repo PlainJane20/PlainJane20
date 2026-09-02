@@ -26,16 +26,6 @@
 ![Slack](https://img.shields.io/badge/Slack-764BA2?style=for-the-badge&logo=slack&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F5576C?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<div align="center">
-
-### 📊 A little about the numbers
-
-<img src="https://raw.githubusercontent.com/PlainJane20/PlainJane20/output/metrics.svg" width="100%" />
-
-<sub>Self-hosted via GitHub Action (no third-party rate limits) — refreshes every 12 hours</sub>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:f093fb&height=3" />
 
 ### 🔗 Find me
