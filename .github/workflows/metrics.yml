@@ -22,8 +22,6 @@ jobs:
           template: classic
           filename: metrics.svg
           committer_branch: output
-          base: "header, activity, community, repositories, metadata"
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
+          base: "header"
+          config_display: compact
           config_timezone: America/Los_Angeles
