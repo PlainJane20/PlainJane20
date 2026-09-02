@@ -34,14 +34,6 @@
 
 <sub>Self-hosted via GitHub Action (no third-party rate limits) — refreshes every 12 hours</sub>
 
-### 🐍 My contribution graph, but make it a snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PlainJane20/PlainJane20/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PlainJane20/PlainJane20/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/PlainJane20/PlainJane20/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:f093fb&height=3" />
