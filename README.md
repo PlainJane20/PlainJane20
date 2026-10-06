@@ -21,6 +21,7 @@ Governed AI agents for program and IT operations, built with approvals, audit tr
 
 | Project | What it does | Area |
 |---|---|---|
+| [agent-whetstone](https://github.com/PlainJane20/agent-whetstone) | A sparring partner for AI agents: sandboxed prompt-injection attacks, defenses, and honest attack-success measurement (simulated target) | agent security |
 | [blast-door](https://github.com/PlainJane20/blast-door) | Durable runbook agent: dry-run proofs, a deterministic blast-radius verifier, second-person approval and crash-safe resume (simulated environment) | IT ops + safety |
 | [edge-sentinel](https://github.com/PlainJane20/edge-sentinel) | ESP32 telemetry with a Jev-first decision cascade, policy-gated actions and a hash-chained audit log | hardware + agents |
 | [jev-agent-router](https://github.com/PlainJane20/jev-agent-router) | Keyword vs LLM vs TypeSafe Jev routing benchmark | evals |
