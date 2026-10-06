@@ -15,6 +15,27 @@
 - **Leveling up on:** Scaling agent orchestration patterns
 - **Ask me about:** anything :)
 
+### 🧭 Agent portfolio
+
+Governed AI agents for program and IT operations, built with approvals, audit trails and evals.
+
+| Project | What it does | Area |
+|---|---|---|
+| [edge-sentinel](https://github.com/PlainJane20/edge-sentinel) | ESP32 telemetry with a Jev-first decision cascade, policy-gated actions and a hash-chained audit log | hardware + agents |
+| [jev-agent-router](https://github.com/PlainJane20/jev-agent-router) | Keyword vs LLM vs TypeSafe Jev routing benchmark | evals |
+| [signalweave-ai](https://github.com/PlainJane20/signalweave-ai) | Multi-agent program intelligence with a deterministic policy gate | governance |
+| [critical-path-radar](https://github.com/PlainJane20/critical-path-radar) | Critical Path Method over Jira dependencies, checked against a textbook answer | scheduling |
+| [exec-status-rollup](https://github.com/PlainJane20/exec-status-rollup) | Deterministic RAG scoring with LLM narration | reporting |
+| [agent-control-tower](https://github.com/PlainJane20/agent-control-tower) | Budgets, approvals and a hash-chained audit log for agents | governance |
+| [it-agent-platform](https://github.com/PlainJane20/it-agent-platform) | Approval-first IT automation | governance |
+| [switchboard](https://github.com/PlainJane20/switchboard) | Git-native ticket router for specialist agents | routing |
+| [muster](https://github.com/PlainJane20/muster) | A git-native AI team you run locally, dispatching to live agent runtimes | orchestration |
+| [mac-ai-apps](https://github.com/PlainJane20/mac-ai-apps) | Native macOS menu bar apps that use a local LLM | local AI |
+
+**Learning now:** ESP32 firmware and TypeSafe's Jev decision model.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:00f2fe&height=3" />
+
 ### 🛠️ Tech I'm playing with
 
 ![Python](https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white)
