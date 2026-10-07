@@ -17,22 +17,32 @@
 
 ### 🧭 Agent portfolio
 
-Governed AI agents for program and IT operations, built with approvals, audit trails and evals.
+Governed AI agents for program and IT operations, built with approvals, audit trails and evals. Every project has its own page that shows what was measured, with caveats, and what is not built yet.
 
-| Project | What it does | Area |
-|---|---|---|
-| [agent-whetstone](https://github.com/PlainJane20/agent-whetstone) | A sparring partner for AI agents: sandboxed prompt-injection attacks, defenses, and honest attack-success measurement (simulated target) | agent security |
-| [blast-door](https://github.com/PlainJane20/blast-door) | Durable runbook agent: dry-run proofs, a deterministic blast-radius verifier, second-person approval and crash-safe resume (simulated environment) | IT ops + safety |
-| [edge-sentinel](https://github.com/PlainJane20/edge-sentinel) | ESP32 telemetry with a Jev-first decision cascade, policy-gated actions and a hash-chained audit log | hardware + agents |
-| [jev-agent-router](https://github.com/PlainJane20/jev-agent-router) | Keyword vs LLM vs TypeSafe Jev routing benchmark | evals |
-| [signalweave-ai](https://github.com/PlainJane20/signalweave-ai) | Multi-agent program intelligence with a deterministic policy gate | governance |
-| [critical-path-radar](https://github.com/PlainJane20/critical-path-radar) | Critical Path Method over Jira dependencies, checked against a textbook answer | scheduling |
-| [exec-status-rollup](https://github.com/PlainJane20/exec-status-rollup) | Deterministic RAG scoring with LLM narration | reporting |
-| [agent-control-tower](https://github.com/PlainJane20/agent-control-tower) | Budgets, approvals and a hash-chained audit log for agents | governance |
-| [it-agent-platform](https://github.com/PlainJane20/it-agent-platform) | Approval-first IT automation | governance |
-| [switchboard](https://github.com/PlainJane20/switchboard) | Git-native ticket router for specialist agents | routing |
-| [muster](https://github.com/PlainJane20/muster) | A git-native AI team you run locally, dispatching to live agent runtimes | orchestration |
-| [mac-ai-apps](https://github.com/PlainJane20/mac-ai-apps) | Native macOS menu bar apps that use a local LLM | local AI |
+**[Browse all project pages →](https://plainjane20.github.io/projects/)**
+
+| Project | What it does | Area | Page |
+|---|---|---|---|
+| [edge-sentinel](https://github.com/PlainJane20/edge-sentinel) | ESP32 telemetry with a Jev-first decision cascade, policy-gated actions and a hash-chained audit log | hardware + agents | [Open](https://plainjane20.github.io/edge-sentinel/) |
+| [blast-door](https://github.com/PlainJane20/blast-door) | Durable runbook agent: dry-run proofs, a deterministic blast-radius verifier, second-person approval and crash-safe resume (simulated environment) | IT ops + safety | [Open](https://plainjane20.github.io/blast-door/) |
+| [agent-whetstone](https://github.com/PlainJane20/agent-whetstone) | A sparring partner for AI agents: sandboxed prompt-injection attacks, defenses and honest attack-success measurement (simulated target by default; one real-model run reported separately) | agent security | [Open](https://plainjane20.github.io/agent-whetstone/) |
+| [jev-agent-router](https://github.com/PlainJane20/jev-agent-router) | Keyword vs LLM vs TypeSafe Jev routing benchmark | evals | [Open](https://plainjane20.github.io/jev-agent-router/) |
+| [signalweave-ai](https://github.com/PlainJane20/signalweave-ai) | Multi-agent program intelligence with a deterministic policy gate | governance | [Open](https://plainjane20.github.io/signalweave-ai/) |
+| [switchboard](https://github.com/PlainJane20/switchboard) | Git-native ticket router for specialist agents, with an optional Jev routing backend | routing | [Open](https://plainjane20.github.io/switchboard/) |
+| [critical-path-radar](https://github.com/PlainJane20/critical-path-radar) | Critical Path Method over Jira dependencies, checked against a textbook answer | scheduling | [Open](https://plainjane20.github.io/critical-path-radar/) |
+| [agent-control-tower](https://github.com/PlainJane20/agent-control-tower) | Budgets, approvals and a hash-chained audit log for agents | governance | [Open](https://plainjane20.github.io/agent-control-tower/) |
+| [it-agent-platform](https://github.com/PlainJane20/it-agent-platform) | Approval-first IT automation | governance | [Open](https://plainjane20.github.io/it-agent-platform/) |
+| [exec-status-rollup](https://github.com/PlainJane20/exec-status-rollup) | Deterministic RAG scoring with LLM narration | reporting | [Open](https://plainjane20.github.io/exec-status-rollup/) |
+| [incident-postmortem-agent](https://github.com/PlainJane20/incident-postmortem-agent) | Blameless postmortem drafting from Slack and Jira evidence, with an offline grounding eval | incident learning | [Open](https://plainjane20.github.io/incident-postmortem-agent/) |
+| [slack-daily-brief](https://github.com/PlainJane20/slack-daily-brief) | Slack briefing agent for decisions, actions and blockers, with an eval harness | reporting | [Open](https://plainjane20.github.io/slack-daily-brief/) |
+| [inbox-marshal](https://github.com/PlainJane20/inbox-marshal) | Gmail organization with reversible actions: archive and label, never delete | automation | [Open](https://plainjane20.github.io/inbox-marshal/) |
+| [spec-review-agent](https://github.com/PlainJane20/spec-review-agent) | Parallel multi-lens review of specifications | requirements | [Open](https://plainjane20.github.io/spec-review-agent/) |
+| [tpm-agent-os](https://github.com/PlainJane20/tpm-agent-os) | Multi-agent pipeline modeling a Staff TPM operating model | program management | [Open](https://plainjane20.github.io/tpm-agent-os/) |
+| [muster](https://github.com/PlainJane20/muster) | A git-native AI team you run locally, dispatching to live agent runtimes | orchestration | [Open](https://plainjane20.github.io/muster/) |
+| [pm-automation-system](https://github.com/PlainJane20/pm-automation-system) | Reference implementation for governed Jira Epic intake and lifecycle automation | workflow design | [Open](https://plainjane20.github.io/pm-automation-system/) |
+| [taskloom](https://github.com/PlainJane20/taskloom) | Local-first desktop control plane for teams of AI agents | orchestration | [Open](https://plainjane20.github.io/taskloom/) |
+| [mac-ai-apps](https://github.com/PlainJane20/mac-ai-apps) | Native macOS menu bar apps that use a local LLM | local AI | [Open](https://plainjane20.github.io/mac-ai-apps/) |
+| [tarmac](https://github.com/PlainJane20/tarmac) | Early-stage delivery-governance reference implementation on sample data | governance | [Open](https://plainjane20.github.io/tarmac/) |
 
 **Learning now:** ESP32 firmware and TypeSafe's Jev decision model.
 
