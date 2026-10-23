@@ -23,7 +23,7 @@ Governed AI agents for program and IT operations, built with approvals, audit tr
 
 | Project | What it does | Area | Page |
 |---|---|---|---|
-| [edge-sentinel](https://github.com/PlainJane20/edge-sentinel) | ESP32 telemetry with a Jev-first decision cascade, policy-gated actions and a hash-chained audit log | hardware + agents | [Open](https://plainjane20.github.io/edge-sentinel/) |
+| [peephole](https://github.com/PlainJane20/peephole) | A semantic gate for agent inputs and actions: typed Jev checks with confidence, escalation to an LLM, fail-closed to a human (built and tested offline, not yet run live) | agent security | [Open](https://plainjane20.github.io/peephole/) |
 | [blast-door](https://github.com/PlainJane20/blast-door) | Durable runbook agent: dry-run proofs, a deterministic blast-radius verifier, second-person approval and crash-safe resume (simulated environment) | IT ops + safety | [Open](https://plainjane20.github.io/blast-door/) |
 | [agent-whetstone](https://github.com/PlainJane20/agent-whetstone) | A sparring partner for AI agents: sandboxed prompt-injection attacks, defenses and honest attack-success measurement (simulated target by default; one real-model run reported separately) | agent security | [Open](https://plainjane20.github.io/agent-whetstone/) |
 | [jev-agent-router](https://github.com/PlainJane20/jev-agent-router) | Keyword vs LLM vs TypeSafe Jev routing benchmark | evals | [Open](https://plainjane20.github.io/jev-agent-router/) |
@@ -44,7 +44,7 @@ Governed AI agents for program and IT operations, built with approvals, audit tr
 | [mac-ai-apps](https://github.com/PlainJane20/mac-ai-apps) | Native macOS menu bar apps that use a local LLM | local AI | [Open](https://plainjane20.github.io/mac-ai-apps/) |
 | [tarmac](https://github.com/PlainJane20/tarmac) | Early-stage delivery-governance reference implementation on sample data | governance | [Open](https://plainjane20.github.io/tarmac/) |
 
-**Learning now:** ESP32 firmware and TypeSafe's Jev decision model.
+**Learning now:** TypeSafe's Jev decision model and agent safety evaluation.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:00f2fe&height=3" />
 
